@@ -1,2 +1,3 @@
-# TheDiceeGame.github.io
+# TheDiceeGame
+
 Simple The Dicee Game
